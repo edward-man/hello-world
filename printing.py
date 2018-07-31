@@ -7,4 +7,4 @@ d = a + b + c
 print(d)
 
 if d == 12:
-    print("Calculated")
+    print("Calculation correct")
